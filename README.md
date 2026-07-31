@@ -58,4 +58,4 @@ La aplicación genera reportes médicos completos que incluyen los mapas de acti
 1. **Clonar el repositorio:**
    ```bash
    git clone [https://github.com/pablocastao2002-bot/LunVisionAI.git](https://github.com/pablocastao2002-bot/LunVisionAI.git)
-   cd LunVisionAI
+   cd LungVisionAI
