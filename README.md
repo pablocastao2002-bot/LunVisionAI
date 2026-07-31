@@ -1,4 +1,4 @@
-# 🫁 LungVisionAI
+# LungVision🫁AI
 
 > **Plataforma para la detección de cáncer pulmonar mediante Inteligencia Artificial a partir de TACs torácicos**
 
