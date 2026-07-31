@@ -12,19 +12,16 @@
 ## 📋 Descripción del Proyecto
 
 **LungVisionAI** es un sistema inteligente diseñado para asistir a profesionales de la salud en la clasificación de tomografías axiales computarizadas (TAC) de tórax. 
-La aplicación utiliza modelos de redes neuronales profundas en busca de:
-- Analizar automáticamente TACs torácicos.
-- Detectar o rechazar la presencia de anomalías cancerígenas en más de un 95% de probabilidad.
-- Explicar visualmente a través de mapas de calor Grad-CAM los cuales muestran que región es la afectada influyendo así en la predicción y aportando transparencia al modelo.
-- Generar informes médicos automáticos en formato PDF reduciendo así tiempos de documentación.
+La aplicación utiliza modelos de redes neuronales profundas las cuales se encargan de:
+- Analizar automáticamente TACs torácicos en busca de detectar o rechazar la presencia de anomalías cancerígenas con una alta probabilidad (*ej. CÁNCER - Confianza: 99.81%*).
+- Generación de mapas de calor Grad-CAM para resaltar las regiones de interés en las que el modelo enfoca su predicción.
+- Generación automática de informes en PDF con hallazgos, interpretación radiológica, recomendaciones y advertencias legales reduciendo así tiempos de documentación.
 
 ---
 
-## 🔬 Características Principales
+## 🔬 Desarrollo y Flujo del Sistema
 
-* **Clasificación Automática de TAC:** Clasificación binaria rápida con porcentaje de confianza (*ej. CÁNCER - Confianza: 99.81%*).
-* **Explicabilidad Visual (Grad-CAM):** Generación de mapas de calor para resaltar las regiones de interés en las que el modelo enfoca su predicción.
-* **Informes Médicos Automatizados:** Generación automática de informes en PDF con hallazgos, interpretación radiológica, recomendaciones y advertencias legales.
+
 
 ---
 
