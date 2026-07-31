@@ -51,11 +51,12 @@ La aplicación genera reportes médicos completos que incluyen los mapas de acti
 ### Requisitos
 
 * Python 3.9 o superior
-* En torno de desarrollo (Windows / Linux / macOS)
+* Entorno de desarrollo (Windows / Linux / macOS)
 
 ### Pasos
 
 1. **Clonar el repositorio:**
+
    ```bash
-   git clone [https://github.com/pablocastao2002-bot/LunVisionAI.git](https://github.com/pablocastao2002-bot/LunVisionAI.git)
+   git clone [https://github.com/pcasta11/LungVisionAI.git](https://github.com/pcasta11/LungVisionAI.git)
    cd LungVisionAI
