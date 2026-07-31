@@ -1,6 +1,6 @@
 # 🫁 LungVisionAI
 
-> **Plataforma de Asistencia al Diagnóstico Radiológico mediante Inteligencia Artificial y Grad-CAM.**
+> **Plataforma para la detección de cáncer pulmonar mediante Inteligencia Artificial a partir de TACs torácicos**
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
 ![PyTorch](https://img.shields.io/badge/Framework-PyTorch-EE4C2C?logo=pytorch)
