@@ -1,0 +1,9 @@
+
+venv/
+data/
+outputs/
+uploads/
+*.pth
+.vscode/
+__pycache__/
+
