@@ -54,7 +54,7 @@ La aplicación utiliza un modelo el cual se encarga de:
 
 ---
 
-## 📊 Muestra de Resultados y Reportes
+## 📊 Muestra de Resultados (DEMO)
 
 La aplicación genera reportes médicos completos que incluyen los mapas de activación visual y el análisis del modelo:
 
