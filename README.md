@@ -45,16 +45,22 @@ La aplicación genera reportes médicos completos que incluyen los mapas de acti
 </details>
 
 ---
-
 ## 🚀 Instalación y Ejecución Local
 
-### Requisitos
+### Requisitos previos
 
-* Python 3.9 o superior
-* Entorno de desarrollo (Windows / Linux / macOS)
+* **Python 3.9** o superior
+* **Git** instalado
+* **Ollama** instalado localmente (con el modelo `llama3` descargado)
 
-### Pasos
+---
 
+### Pasos de Instalación
+
+1. **Clonar el repositorio:**
+   ```bash
+   git clone [https://github.com/pcasta11/LungVisionAI.git](https://github.com/pcasta11/LungVisionAI.git)
+   cd LungVisionAI
 1. **Clonar el repositorio:**
 
    ```bash
