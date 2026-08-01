@@ -58,18 +58,9 @@ La aplicación utiliza un modelo el cual se encarga de:
 
 La aplicación genera reportes médicos completos que incluyen los mapas de activación visual y el análisis del modelo:
 
-| Análisis TAC | Mapa de Calor (Grad-CAM) | Superposición |
-| :---: | :---: | :---: |
-| **TAC Torácico Original** | **Áreas de Atención del Modelo** | **Superposición sobre TAC** |
 
-<details>
-<summary>🔍 <b>Ejemplo de Informe Médico Generado por la App</b></summary>
 
-* **Resultado:** CÁNCER (Confianza: 99.81%)
-* **Hallazgos:** Presencia de nódulos o tumores neoplásicos con análisis de densidad y lesiones asociadas.
-* **Interpretación:** Correlación diagnóstica basada en patrones detectados en la tomografía.
-* **Recomendación:** Sugerencias clínicas de abordaje y seguimiento especializado.
-* **Descargo de responsabilidad:** Herramienta de apoyo al diagnóstico que debe ser validada por personal sanitario cualificado.
+
 
 </details>
 
