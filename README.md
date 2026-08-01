@@ -82,3 +82,18 @@ La aplicación genera reportes médicos completos que incluyen los mapas de acti
    git clone [https://github.com/pcasta11/LungVisionAI.git](https://github.com/pcasta11/LungVisionAI.git)
    cd LungVisionAI
 
+2. Crear y activar un entorno virtual
+Se recomienda el uso de un entorno virtual para aislar las dependencias:
+
+En Windows (PowerShell/CMD):
+
+Bash
+python -m venv venv
+.\venv\Scripts\activate
+En macOS / Linux:
+
+Bash
+python3 -m venv venv
+source venv/bin/activate
+3. Instalar dependencias
+Con el entorno virtual activo, instala todas las librerías necesarias:
