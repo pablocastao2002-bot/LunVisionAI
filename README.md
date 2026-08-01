@@ -31,11 +31,11 @@ La aplicación utiliza modelos de redes neuronales profundas las cuales se encar
     </td>
     <td width="60%" valign="top">
       <ol>
-        <li><b>Usuario sube TAC torácico:</b> El profesional introduce la imagen médica en la plataforma.</li>
+        <li><b>Usuario sube TAC torácico:</b> Se introduce la imagen médica en la plataforma.</li>
         <br>
         <li><b>Interfaz Streamlit procesa la entrada:</b> Se valida el archivo y se aplican las transformaciones necesarias (redimensionado a 224x224, normalización y formato RGB).</li>
         <br>
-        <li><b>Modelo IA DenseNet121 analiza la imagen:</b> La red neuronal convolucional procesa las características del TAC.</li>
+        <li><b>Modelo IA DenseNet121 analiza la imagen:</b> La CNN procesa las características del TAC.</li>
         <br>
         <li><b>Predicción binaria (Benigno/Maligno):</b> Se computa la probabilidad de presencia de cáncer o tejido normal.</li>
         <br>
