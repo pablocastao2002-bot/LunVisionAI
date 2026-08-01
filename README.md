@@ -19,20 +19,20 @@ La aplicación utiliza un modelo el cual se encarga de:
 
 ---
 
-
 ## 🏛️ Arquitectura del Sistema
 
+---
 
 <table width="100%">
   <tr>
-    <td width="45%" align="center" valign="middle" style="padding: 0px;">
-      <img src="assets/arquitectura.png" alt="Arquitectura del Sistema" style="width: 100%; height: 100%; object-fit: contain; display: block;">
+    <td width="45%" style="padding: 0px; vertical-align: stretch;">
+      <img src="assets/arquitectura.png" alt="Arquitectura del Sistema" style="width: 100%; height: 100%; min-height: 100%; object-fit: cover; display: block;">
     </td>
-    <td width="55%" valign="top" style="padding-left: 15px;">
+    <td width="55%" valign="top" style="padding-left: 20px;">
       <ol>
         <li><b>Usuario sube TAC torácico:</b> Se introduce la imagen médica en la plataforma.</li>
         <br>
-        <li><b>Interfaz Streamlit procesa la entrada:</b> Se valida el archivo y se aplican las transformaciones necesarias (redimensionado a 224x224, normalización y formato).</li>
+        <li><b>Interfaz Streamlit procesa la entrada:</b> Se valida el archivo y se aplican las transformaciones necesarias (redimensionado a 224x224, normalización y formato RGB).</li>
         <br>
         <li><b>Modelo IA DenseNet121 analiza la imagen:</b> La CNN procesa las características del TAC.</li>
         <br>
@@ -48,7 +48,7 @@ La aplicación utiliza un modelo el cual se encarga de:
   </tr>
 </table>
 
-
+---
 
 ---
 
