@@ -61,8 +61,4 @@ La aplicación genera reportes médicos completos que incluyen los mapas de acti
    ```bash
    git clone [https://github.com/pcasta11/LungVisionAI.git](https://github.com/pcasta11/LungVisionAI.git)
    cd LungVisionAI
-1. **Clonar el repositorio:**
 
-   ```bash
-   git clone [https://github.com/pcasta11/LungVisionAI.git](https://github.com/pcasta11/LungVisionAI.git)
-   cd LungVisionAI
