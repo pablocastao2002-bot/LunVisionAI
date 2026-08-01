@@ -19,8 +19,37 @@ La aplicación utiliza modelos de redes neuronales profundas las cuales se encar
 
 ---
 
-## 🔬 Desarrollo y Flujo del Sistema
 
+## 🔬 Arquitectura del Sistema
+
+---
+
+<table>
+  <tr>
+    <td width="40%" valign="top">
+      <img src="assets/arquitectura.png" alt="Arquitectura del Sistema" width="100%">
+    </td>
+    <td width="60%" valign="top">
+      <ol>
+        <li><b>Usuario sube TAC torácico:</b> El profesional introduce la imagen médica en la plataforma.</li>
+        <br>
+        <li><b>Interfaz Streamlit procesa la entrada:</b> Se valida el archivo y se aplican las transformaciones necesarias (redimensionado a 224x224, normalización y formato RGB).</li>
+        <br>
+        <li><b>Modelo IA DenseNet121 analiza la imagen:</b> La red neuronal convolucional procesa las características del TAC.</li>
+        <br>
+        <li><b>Predicción binaria (Benigno/Maligno):</b> Se computa la probabilidad de presencia de cáncer o tejido normal.</li>
+        <br>
+        <li><b>Grad-CAM genera mapa de calor explicativo:</b> Se identifican y resaltan visualmente las regiones críticas que justifican el diagnóstico.</li>
+        <br>
+        <li><b>Ollama con Llama 3 redacta informe clínico:</b> El modelo de lenguaje redacta el reporte estructurado en texto natural.</li>
+        <br>
+        <li><b>ReportLab exporta informe en PDF:</b> Generación del documento final descargable para el profesional.</li>
+      </ol>
+    </td>
+  </tr>
+</table>
+
+---
 
 
 ---
