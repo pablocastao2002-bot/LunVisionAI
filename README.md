@@ -23,16 +23,16 @@ La aplicación utiliza modelos de redes neuronales profundas las cuales se encar
 ## 🏛️ Arquitectura del Sistema
 
 
-<table>
+<table width="100%">
   <tr>
-    <td width="40%" valign="top">
-      <img src="assets/arquitectura.png" alt="Arquitectura del Sistema" width="100%">
+    <td width="45%" align="center" valign="middle" style="padding: 0px;">
+      <img src="assets/arquitectura.png" alt="Arquitectura del Sistema" style="width: 100%; height: 100%; object-fit: contain; display: block;">
     </td>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top" style="padding-left: 15px;">
       <ol>
         <li><b>Usuario sube TAC torácico:</b> Se introduce la imagen médica en la plataforma.</li>
         <br>
-        <li><b>Interfaz Streamlit procesa la entrada:</b> Se valida el archivo y se aplican las transformaciones necesarias (redimensionado a 224x224, normalización y formato RGB).</li>
+        <li><b>Interfaz Streamlit procesa la entrada:</b> Se valida el archivo y se aplican las transformaciones necesarias (redimensionado a 224x224, normalización y formato).</li>
         <br>
         <li><b>Modelo IA DenseNet121 analiza la imagen:</b> La CNN procesa las características del TAC.</li>
         <br>
