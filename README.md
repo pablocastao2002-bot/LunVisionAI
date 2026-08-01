@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
 ![PyTorch](https://img.shields.io/badge/Framework-PyTorch-EE4C2C?logo=pytorch)
-![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B?logo=streamlit)
+![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B?logo=streamlit) 
 ![License](https://img.shields.io/badge/Licencia-MIT-green)
 
 ---
