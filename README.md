@@ -22,7 +22,6 @@ La aplicación utiliza modelos de redes neuronales profundas las cuales se encar
 
 ## 🔬 Arquitectura del Sistema
 
----
 
 <table>
   <tr>
@@ -49,7 +48,6 @@ La aplicación utiliza modelos de redes neuronales profundas las cuales se encar
   </tr>
 </table>
 
----
 
 
 ---
