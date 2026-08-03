@@ -87,7 +87,7 @@ Sigue estos pasos para desplegar y ejecutar **LungVisionAI** localmente en tu eq
 Antes de comenzar, asegúrate de contar con lo siguiente:
 * **Python** (versión 3.9 o superior)
 * **Git**
-* **Ollama** (necesario para la generación de informes clínicos con Llama 3) $\rightarrow$ [Descargar Ollama](https://ollama.com/)
+* **Ollama** (necesario para la generación de informes clínicos con Llama 3) 
 
 
 ### 🚀 Pasos de Instalación
