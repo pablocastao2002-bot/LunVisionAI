@@ -72,8 +72,8 @@ A continuación se presenta un recorrido visual del flujo de trabajo completo qu
 
 * **1. Carga y Procesamiento del TAC:** La interfaz permite la ingesta rápida del escáner del paciente en formatos estándar (`PNG`, `JPG`), mostrando una vista previa inmediata.
 * **2. Clasificación con IA (DenseNet121):** El modelo devuelve un diagnóstico preliminar indicando la probabilidad y nivel de confianza del hallazgo (ej. *CÁNCER - Confianza: 99,60%*).
-* **3. Explicabilidad mediante Grad-CAM:** Generación del mapa de calor e inferencia espacial sobre la lesión, resaltando exactamente las zonas que justifican la predicción clínica.
-* **4. Informe Médico Automatizado (LLM + PDF):** Síntesis del caso en lenguaje natural mediante Ollama y exportación automática de un reporte descargable listo para la firma del especialista.
+* **3. Explicabilidad mediante Grad-CAM:** Generación del mapa de calor e inferencia espacial sobre la anomalía, resaltando las zonas que justifican la predicción médica.
+* **4. Informe Médico Automatizado (LLM + PDF):** Síntesis del caso en lenguaje natural mediante Ollama y exportación automática de un informe descargable listo para la firma del especialista.
 
 
 ---
