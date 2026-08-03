@@ -2,7 +2,7 @@
 
 # LungVision🫁AI
 
-> **Plataforma para la detección de cáncer pulmonar mediante Inteligencia Artificial a partir de TACs torácicos**
+> **Plataforma para la detección de cáncer pulmonar mediante Inteligencia Artificial a partir de TACs torácicos.**
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
 ![PyTorch](https://img.shields.io/badge/Framework-PyTorch-EE4C2C?logo=pytorch)
