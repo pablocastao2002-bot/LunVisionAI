@@ -105,16 +105,17 @@ cd LungVisionAI
 Se recomienda aislar las dependencias del proyecto utilizando un entorno virtual:
 
 * **En Windows (PowerShell / CMD):**
-  ```bash
-  python -m venv venv
-  .\venv\Scripts\activate
-  ```
+```bash
+python -m venv venv
+.\venv\Scripts\activate
+```
 
 * **En macOS o Linux:**
 ```bash
-  python3 -m venv venv
-  source venv/bin/activate
-  ```
+python3 -m venv venv
+source venv/bin/activate
+```
+
 💡 Nota: Verás (venv) al inicio de la línea de comandos indicando que el entorno está activo.
 
 #### 3. Instalar dependencias
@@ -148,4 +149,4 @@ streamlit run app.py
 .\venv\Scripts\streamlit run app.py
 ```
 
-🌐 Acceso: La aplicación se desplegará automáticamente en tu navegador web predeterminado
+🌐 Acceso: La aplicación se desplegará automáticamente en tu navegador web predeterminado.
