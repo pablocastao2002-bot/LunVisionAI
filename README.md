@@ -77,35 +77,27 @@ A continuación se presenta un recorrido visual del flujo de trabajo completo qu
 
 
 ---
-## 🚀 Instalación y Ejecución Local
+## ⚙️ Instalación y Ejecución Local
 
-### Requisitos previos
-
-* **Python 3.9** o superior
-* **Git** instalado
-* **Ollama** instalado localmente (con el modelo `llama3` descargado)
+Sigue estos pasos para desplegar y ejecutar **LungVisionAI** localmente en tu equipo.
 
 ---
 
-### Pasos de Instalación
+### 📋 Requisitos Previos
 
-1. **Clonar el repositorio:**
-   ```bash
-   git clone [https://github.com/pcasta11/LungVisionAI.git](https://github.com/pcasta11/LungVisionAI.git)
-   cd LungVisionAI
+Antes de comenzar, asegúrate de contar con lo siguiente:
+* **Python** (versión 3.9 o superior)
+* **Git**
+* **Ollama** (necesario para la generación de informes clínicos con Llama 3) $\rightarrow$ [Descargar Ollama](https://ollama.com/)
 
-2. Crear y activar un entorno virtual
-Se recomienda el uso de un entorno virtual para aislar las dependencias:
+---
 
-En Windows (PowerShell/CMD):
+### 🚀 Pasos de Instalación
 
-Bash
-python -m venv venv
-.\venv\Scripts\activate
-En macOS / Linux:
-
-Bash
-python3 -m venv venv
-source venv/bin/activate
+#### 1. Clonar el repositorio
+Abre tu terminal y clona el proyecto en tu máquina local:
+```bash
+git clone [https://github.com/pcasta11/LungVisionAI.git](https://github.com/pcasta11/LungVisionAI.git)
+cd LungVisionAI
 3. Instalar dependencias
 Con el entorno virtual activo, instala todas las librerías necesarias:
