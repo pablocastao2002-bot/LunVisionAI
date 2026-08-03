@@ -56,14 +56,14 @@ La aplicación utiliza un modelo el cual se encarga de:
 
 ## 📊 Muestra de Resultados (DEMO)
 
----
 
 A continuación se presenta un recorrido visual del flujo de trabajo completo que realiza la aplicación desde la entrada de la imagen médica hasta la generación del informe final:
+
 
 <br>
 
 <p align="center">
-  <img src="assets/collage_demo.jpg" alt="Demostración del Flujo de LungVisionAI" width="100%">
+ <img width="1522" height="622" alt="image" src="https://github.com/user-attachments/assets/20634186-212d-45b4-ba5f-74faee5649b2" />
 </p>
 
 <br>
