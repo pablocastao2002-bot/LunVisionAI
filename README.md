@@ -67,6 +67,7 @@ A continuación se presenta un recorrido visual del flujo de trabajo completo qu
 </p>
 
 <br>
+
 ### 🔍 Flujo de Trabajo en Detalle:
 
 * **1. Carga y Procesamiento del TAC:** La interfaz permite la ingesta rápida del escáner del paciente en formatos estándar (`PNG`, `JPG`), mostrando una vista previa inmediata.
