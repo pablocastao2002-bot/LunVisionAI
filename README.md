@@ -99,5 +99,3 @@ Abre tu terminal y clona el proyecto en tu máquina local:
 ```bash
 git clone [https://github.com/pcasta11/LungVisionAI.git](https://github.com/pcasta11/LungVisionAI.git)
 cd LungVisionAI
-3. Instalar dependencias
-Con el entorno virtual activo, instala todas las librerías necesarias:
