@@ -23,7 +23,6 @@ La aplicación utiliza un modelo el cual se encarga de:
 
 ## 🏛️ Arquitectura del Sistema
 
----
 
 <table width="100%">
   <tr>
