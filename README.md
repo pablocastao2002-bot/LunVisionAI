@@ -99,3 +99,13 @@ Abre tu terminal y clona el proyecto en tu máquina local:
 ```bash
 git clone [https://github.com/pcasta11/LungVisionAI.git](https://github.com/pcasta11/LungVisionAI.git)
 cd LungVisionAI
+```
+
+#### 2. Crear y activar el entorno virtual
+Se recomienda aislar las dependencias del proyecto utilizando un entorno virtual:
+
+* **En Windows (PowerShell / CMD):**
+  ```bash
+  python -m venv venv
+  .\venv\Scripts\activate
+  ```
