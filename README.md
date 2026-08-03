@@ -132,7 +132,7 @@ Asegúrate de que la aplicación Ollama se esté ejecutando en tu sistema y desc
 ollama run llama3
 ```
 
-### 5. Ejecución de la Aplicación
+#### 5. Ejecución de la Aplicación
 
 Una vez completada la instalación, inicia la interfaz interactiva con **Streamlit**:
 
