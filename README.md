@@ -132,3 +132,20 @@ Asegúrate de que la aplicación Ollama se esté ejecutando en tu sistema y desc
 ```bash
 ollama run llama3
 ```
+
+### 5. Ejecución de la Aplicación
+
+Una vez completada la instalación, inicia la interfaz interactiva con **Streamlit**:
+
+* **Opción A (Si el entorno virtual está activo):**
+
+```bash
+streamlit run app.py
+```
+
+* **Opción B (Lanzamiento directo en Windows):**
+```bash
+.\venv\Scripts\streamlit run app.py
+```
+
+🌐 Acceso: La aplicación se desplegará automáticamente en tu navegador web predeterminado
