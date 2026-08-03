@@ -56,6 +56,7 @@ La aplicación utiliza un modelo el cual se encarga de:
 
 La aplicación genera reportes médicos completos que incluyen los mapas de activación visual y el análisis del modelo:
 
+<img width="1537" height="637" alt="image" src="https://github.com/user-attachments/assets/453b1e8e-4db9-41ef-b380-a14f6f824b49" />
 
 
 
