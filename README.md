@@ -116,3 +116,19 @@ Se recomienda aislar las dependencias del proyecto utilizando un entorno virtual
   source venv/bin/activate
   ```
 💡 Nota: Verás (venv) al inicio de la línea de comandos indicando que el entorno está activo.
+
+#### 3. Instalar dependencias
+
+Con el entorno virtual activado, instala todas las librerías necesarias:
+
+```bash
+pip install -r requirements.txt
+```
+
+#### 4. Descargar y preparar el modelo LLM
+
+Asegúrate de que la aplicación Ollama se esté ejecutando en tu sistema y descarga el modelo de lenguaje ejecutando en la terminal:
+
+```bash
+ollama run llama3
+```
