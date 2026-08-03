@@ -112,7 +112,7 @@ Se recomienda aislar las dependencias del proyecto utilizando un entorno virtual
 
 * **En macOS o Linux:**
 ```bash
-python3 -m venv venv
-source venv/bin/activate
-```
+  python3 -m venv venv
+  source venv/bin/activate
+  ```
 💡 Nota: Verás (venv) al inicio de la línea de comandos indicando que el entorno está activo.
