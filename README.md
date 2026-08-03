@@ -49,7 +49,6 @@ La aplicación utiliza un modelo el cual se encarga de:
   </tr>
 </table>
 
----
 
 ---
 
