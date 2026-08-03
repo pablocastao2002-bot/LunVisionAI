@@ -61,6 +61,10 @@ La aplicación genera reportes médicos completos que incluyen los mapas de acti
 
 
 
+
+
+
+
 </details>
 
 ---
