@@ -52,20 +52,7 @@ La aplicación utiliza un modelo el cual se encarga de:
 
 ---
 
-## 📊 Muestra de Resultados (DEMO)
 
-La aplicación genera reportes médicos completos que incluyen los mapas de activación visual y el análisis del modelo:
-
-<img width="1537" height="637" alt="image" src="https://github.com/user-attachments/assets/453b1e8e-4db9-41ef-b380-a14f6f824b49" />
-
-
-
-
-
-
-
-
-</details>
 
 ## 📊 Muestra de Resultados (DEMO)
 
@@ -88,7 +75,6 @@ A continuación se presenta un recorrido visual del flujo de trabajo completo qu
 * **3. Explicabilidad mediante Grad-CAM:** Generación del mapa de calor e inferencia espacial sobre la lesión, resaltando exactamente las zonas que justifican la predicción clínica.
 * **4. Informe Médico Automatizado (LLM + PDF):** Síntesis del caso en lenguaje natural mediante Ollama y exportación automática de un reporte descargable listo para la firma del especialista.
 
----
 
 ---
 ## 🚀 Instalación y Ejecución Local
