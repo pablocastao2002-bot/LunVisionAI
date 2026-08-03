@@ -81,7 +81,6 @@ A continuación se presenta un recorrido visual del flujo de trabajo completo qu
 
 Sigue estos pasos para desplegar y ejecutar **LungVisionAI** localmente en tu equipo.
 
----
 
 ### 📋 Requisitos Previos
 
@@ -90,7 +89,6 @@ Antes de comenzar, asegúrate de contar con lo siguiente:
 * **Git**
 * **Ollama** (necesario para la generación de informes clínicos con Llama 3) $\rightarrow$ [Descargar Ollama](https://ollama.com/)
 
----
 
 ### 🚀 Pasos de Instalación
 
